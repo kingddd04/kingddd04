@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding, I'm studying python and Java, I would like someday to learn to code and develop video games with godot or unity
 - 🌱 I’m currently learning ... Phyton, and Java css htlm javascript
 - 📫 How to reach me ... discord: kingddd_04
-- ⚡ Fun fact: ... I'm lazy
+- ⚡ Fun fact: ... I still miss 2015 summer 
 
 <!---
 kingddd04/kingddd04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
